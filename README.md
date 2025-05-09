@@ -1,5 +1,4 @@
 # Welcome!
 
-Hi, I'm Carlos Eduardo Falandes
+Author(s): Carlos Eduardo Falandes
 
-My pronouns are **he/him**.
