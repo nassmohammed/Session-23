@@ -126,3 +126,5 @@ Friday, May 24, 2025
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
+
+Authors: Nasser Mohammed
