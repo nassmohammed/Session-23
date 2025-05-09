@@ -1,6 +1,7 @@
-# Session-23
+# Welcome!
 
-The twenty-third session of the LSSTC DSFP focuses on Statistics and Bayesian Inference. The guest instructors for Session 23 are:
+Author(s): Carlos Eduardo Falandes, Nasser Mohammed
+
 
 - Dr. Sylvia Biscoveanu (CIERA | Northwestern) 
 - Dr. Greg Gilbert (Caltech) 
@@ -129,3 +130,4 @@ Friday, May 24, 2025
 
 
   Author(s): Nasser
+
