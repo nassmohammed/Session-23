@@ -81,10 +81,10 @@ Tuesday, May 20, 2025
 * 11:00 AM - 12:00 PM o [Model Comparison and Misspecification](Day2/); S Biscoveanu 
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 03:00 PM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/Model%20selection%20and%20misspecification.ipynb) | [Solution](Day2/): Model Comparison and Misspecification; S Biscovenau 
-* 03:00 PM - 04:00 PM o [Priors, Likelihoods, Posteriors, and all that](Day2/); B Scott  
+* 03:00 PM - 04:00 PM o [Priors, Likelihoods, Posteriors, and all that](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/Priors%2C%20Likelihoods%2C%20Posteriors%20and%20All%20That%20(Session%2023).ipynb); B Scott  
 * 04:00 PM - 04:15 PM o Session Photo on Cathedral of Learning Steps
 * 04:15 PM - 04:45 PM o BREAK
-* 04:45 PM - 05:45 PM o [Problem](Day2/) | [Solution](Day2/): Priors, Likelihoods, Posteriors, and all that; B Scott
+* 04:45 PM - 05:45 PM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/Priors%2C%20Likelihoods%2C%20Posteriors%2C%20and%20All%20That%20Problems%20(No%20solutions).ipynb)| Solution [Code](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/Priors%2C%20Likelihoods%2C%20Posteriors%2C%20and%20All%20That%20Problems.ipynb) | [Cauchy Likelihood](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day2/Lighthouse_solution.PNG): Priors, Likelihoods, Posteriors, and all that; B Scott
  
 ## Day 3 — Advanced Sampling Techniques
 
@@ -96,8 +96,8 @@ Tuesday, May 20, 2025
 
 Wednesday, May 21, 2025
 * 09:00 AM – 10:00 AM o  [Hamiltonian, Nested, and Ensemble Sampling](Day3/); G Gilbert
-* 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o  [Problem](Day3/)| [Solutions](Day3/): Hamiltonian, Nested, and Ensemble Sampling; G Gilbert
+* 09:45 AM – 10:15 AM o Break 
+* 10:15 AM – 12:00 PM o  [Problem](Day3/)| [Solutions](Day3/): Hamiltonian, Nested, and Ensemble Sampling; G Gilbert
 * 12:00 PM – ??:?? PM o BREAK 
 
 ## Day 4 — Graphical and Hierarchical Models
