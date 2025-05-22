@@ -109,12 +109,12 @@ Wednesday, May 21, 2025
 -- 
 
 Thursday, May 22, 2025 
-* 09:00 AM – 10:00 AM o [Probabilistic Graphical Models](Day4/); C Schafer
+* 09:00 AM – 10:00 AM o [Probabilistic Graphical Models](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGMslidesSchafer.pdf); C Schafer
 * 10:00 AM – 10:30 AM o Break 
-* 10:30 AM – 12:00 PM o  [Problem](Day4/): [Solutions](Day4/); Probabilistic Graphical Models; C Schafer 
+* 10:30 AM – 12:00 PM o  [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/PGM_Examples_and_Exercises.ipynb): [Solutions](Day4/); Probabilistic Graphical Models; C Schafer 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o [Hierarchical Modeling](Day4/); G Gilbert
-* 02:30 PM – 04:00 PM o [Problem](Day4/) | [Solution](Day4/) : Hierarchical Modeling; G Gilbert
+* 01:30 PM – 02:30 PM o [Hierarchical Modeling](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/LSST_Day4_HBayes.pdf); G Gilbert
+* 02:30 PM – 04:00 PM o [Problem](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day4/Day4_HBayes.ipynb) | [Solution](Day4/); Hierarchical Modeling; G Gilbert
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
  
