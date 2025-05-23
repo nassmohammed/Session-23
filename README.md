@@ -127,7 +127,7 @@ Thursday, May 22, 2025
 --  
 
 Friday, May 23, 2025
-* 9:00 AM - 9:45 AM o [Intractable Posteriors](Day5/); G Gilbert
+* 9:00 AM - 9:45 AM o [Intractable Posteriors](https://github.com/LSSTC-DSFP/Session-23/blob/main/Day5/LSST_Day5_Posteriors.pdf); G Gilbert
 * 09:45 AM – 10:45 AM o [Problem](Day5/) [Solution](Day5/); Intractable Posteriors G Gilbert
 * 10:45 AM – 11:00 AM o BREAK 
 * 11:00 AM – 12:00 PM o Hack Session
